@@ -1,0 +1,1 @@
+from lang_info.main import app

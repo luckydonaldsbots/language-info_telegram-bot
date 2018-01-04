@@ -1,0 +1,12 @@
+## Web ##
+uwsgi
+flask
+
+## Bot ##
+teleflask==1.0.0  # yeah, telegram!
+
+## Diversa ##
+requests
+pydub
+numpy
+celery
