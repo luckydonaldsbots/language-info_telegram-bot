@@ -2,3 +2,4 @@
 uwsgi
 flask
 teleflask==1.0.0  # yeah, telegram!
+luckydonald-utils==0.61
